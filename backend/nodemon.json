@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "tritin21",
+    "MONGO_PASSWORD": "tin0602200239",
+    "MONGO_DEFAULT_DATABASE": "bookstore",
+    "BUCKET": "nguyen-tri-tin"
+  }
+}
